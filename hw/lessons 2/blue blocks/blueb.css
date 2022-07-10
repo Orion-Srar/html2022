@@ -1,0 +1,24 @@
+.up{
+    width: 500px;
+    height:200px;
+    box-sizing: border-box;
+    margin: auto;
+    padding: 70px 20px ;
+    background: blue;
+}
+.in{
+    width: 150px;
+    height:200px;
+    box-sizing: border-box;
+    padding: 50px 20px;
+    background: blue;
+}
+h3{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin: 10px auto;
+}
