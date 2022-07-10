@@ -1,0 +1,23 @@
+.wid{
+    background: #5252e7;
+    height: 200px;
+    width: 500px;
+    margin: 10px 400px;
+    box-sizing: border-box;
+    padding: 80px 230px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin: 10px 400px;
+}
+.big {
+    background: #5252e7;
+    height: 200px;
+    width: 140px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 60px 30px;
+}
+
