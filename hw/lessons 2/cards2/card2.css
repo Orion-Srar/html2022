@@ -1,0 +1,44 @@
+body{
+    background: cornflowerblue;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    margin: 40px;
+    width: 1320px;
+    height: 500px;
+}
+.row{
+    margin: 10px;
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.column{
+    background: white;
+    width: 600px;
+    height: 150px;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.ping {
+    background: antiquewhite;
+    width: 70px;
+    height: 70px;
+
+}
+.text{
+    background: antiquewhite;
+    width: 400px;
+    height: 130px;
+}
+h2{
+    color: orange;
+}
+.fa-pen{
+    background: black;
+    font-size: 100px;
+}
