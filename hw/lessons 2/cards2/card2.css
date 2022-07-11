@@ -25,20 +25,19 @@ body{
     justify-content: space-around;
 }
 .ping {
-    background: antiquewhite;
-    width: 70px;
-    height: 70px;
+    margin-left: 30px;
+    width: 50px;
+    height: 50px;
 
 }
 .text{
-    background: antiquewhite;
     width: 400px;
     height: 130px;
 }
 h2{
     color: orange;
 }
-.fa-pen{
-    background: black;
-    font-size: 100px;
+i{
+    font-size: 50px;
+    color: silver;
 }
