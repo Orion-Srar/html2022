@@ -1,0 +1,34 @@
+.st{
+    border-radius: 10px;
+    margin: 5px;
+}
+.a{
+    height: 120px;
+    background: yellow;
+}
+.b{
+    height: 500px;
+    width: 75%;
+    background: #05053b;
+}
+.c{
+    height: 500px;
+    width: 25%;
+    background: blue;
+}
+.father{
+    display: flex;
+}
+@media screen and (max-width: 600px){
+    .father{
+        flex-direction: column;
+    }
+    .b{
+        width: 100%;
+    }
+    .c{
+        width: 100%;
+        height: 120px;
+    }
+
+}
